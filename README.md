@@ -20,7 +20,3 @@ This Python script uses the Instagram API to track who unfollows an Instagram us
 1. Enter an Instagram username to track when prompted.
 2. Enter an email address to receive notifications when someone unfollows the user.
 3. The script will start tracking the user's followers and send an email notification when someone unfollows them.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
